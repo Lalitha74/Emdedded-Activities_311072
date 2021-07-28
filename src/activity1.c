@@ -1,5 +1,3 @@
-
-
 #include <avr/io.h>
 #include <util/delay.h>
 #include"activity1.h"
