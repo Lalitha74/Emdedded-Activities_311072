@@ -1,13 +1,25 @@
+/**
+ * @file activity1.c
+ * @author 260894 (you@domain.com)
+ * @brief
+ * @version 0.1
+ * @date 2021-04-23
+ *
+ * @copyright Copyright (c) 2021
+ *
+ */
+
 #include <avr/io.h>
 #include <util/delay.h>
-#include "Activity1.h"
-void Activity1(){
+#include"activity1.h"
 
-    SET_LED;    //set led as output port
-    SET_BUTTON;  //clear bit 6 of DDR B
-    PULLUP_BUTTON;        //Set bit 6 of Port B
-    SET_HEATER;  //clear bit 7 of DDR B
-    PULLUP_HEATER;        //Set bit 7 of DDR B
+void activity1()
+{
+SET_LED; // set LED
+CLEAR_BUTTON_DATA; //clear PORTD 0th bit.
+PULLUP_BUTTON; //Set PortB 0th bit.
+CLEAR_HEATER_DATA; //clear PORTD 1st bit.
+PULLUP_HEATER;// Set PortB 1st bit.
 
 }
 
