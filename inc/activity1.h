@@ -1,5 +1,3 @@
-
-
 #ifndef ACTIVITY1_H_INCLUDED
 #define ACTIVITY1_H_INCLUDED
 
