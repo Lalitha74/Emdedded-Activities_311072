@@ -1,13 +1,3 @@
-/**
- * @file activity2.c
- * @author 260894 (you@domain.com)
- * @brief
- * @version 0.1
- * @date 2021-04-27
- *
- * @copyright Copyright (c) 2021
- *
- */
 #include <avr/io.h>
 #include"activity2.h"
 
