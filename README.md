@@ -24,7 +24,9 @@
 ## CI and Code Quality
 |Build|Cppcheck|Codacy|Code Inspector|Code Grade|
 |:--:|:--:|:--:|:--|:---|
-[![Compile-Linux](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml/badge.svg)](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ef572e5cf5d404d9f2e908e0efc071b)](https://www.codacy.com/gh/Lalitha74/Emdedded-Activities_311072/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lalitha74/Emdedded-Activities_311072&amp;utm_campaign=Badge_Grade)
+[![Compile-Linux](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml/badge.svg)](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ef572e5cf5d404d9f2e908e0efc071b)](https://www.codacy.com/gh/Lalitha74/Emdedded-Activities_311072/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lalitha74/Emdedded-Activities_311072&amp;utm_campaign=Badge_Grade)|![image](https://user-images.githubusercontent.com/86546222/127517697-43514b08-b769-4323-9bf0-0d3e30d48645.png)|![image](https://user-images.githubusercontent.com/86546222/127517749-2b1f3516-42fe-4b73-a0dd-9f6d4a3443b2.png)
+
+
 
 
 
