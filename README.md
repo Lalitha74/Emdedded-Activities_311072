@@ -24,7 +24,7 @@
 ## CI and Code Quality
 |Build|Cppcheck|Codacy|Code Inspector|Code Grade|
 |:--:|:--:|:--:|:--|:---|
-[![Compile-Linux](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml/badge.svg)](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml)
+[![Compile-Linux](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml/badge.svg)](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ef572e5cf5d404d9f2e908e0efc071b)](https://www.codacy.com/gh/Lalitha74/Emdedded-Activities_311072/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lalitha74/Emdedded-Activities_311072&amp;utm_campaign=Badge_Grade)
 
 
 
