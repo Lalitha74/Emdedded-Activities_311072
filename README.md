@@ -32,3 +32,10 @@
 ![function Application](https://user-images.githubusercontent.com/85540441/127324870-8ef9ecd0-55a7-4353-9411-d1b2f312ac81.gif)
 
 
+
+## CI and Code Quality
+|Build|Cppcheck|Codacy|Code Inspector|Code Grade|
+|:--:|:--:|:--:|:--|:---|
+[![Compile-Linux](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml/badge.svg)](https://github.com/Lalitha74/Emdedded-Activities_311072/actions/workflows/compile.yml)
+
+
